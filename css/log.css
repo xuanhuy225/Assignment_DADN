@@ -1,0 +1,13 @@
+@charset "utf-8";
+body{ 
+	margin: 0px;
+}
+#id_bg{
+	width: 100vw;
+	height: 100vh;
+	background-image: url('../src/log_screen.jpg');
+	background-size:contain;
+	background-repeat:no-repeat;
+	opacity: 70%;
+	
+}
